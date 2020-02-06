@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import { useSelector, useDispatch } from 'react-redux';
 import { increment } from './actions';
 
